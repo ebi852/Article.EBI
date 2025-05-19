@@ -1,7 +1,6 @@
 # Qubit Flight: The Future of Invisible Skies?
 
 This project is a speculative scientific article about quantum-powered aircraft and their potential to become untraceable, inspired by a thought-provoking question from Professor Hossam Mohseni:
-
 > "What if airplanes could fly using the logic of qubits — not just for computation, but for total radar evasion?"
 
 🌐 **View the article online:**  
