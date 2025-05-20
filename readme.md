@@ -4,7 +4,7 @@ This project is a speculative scientific article about quantum-powered aircraft 
 > "What if airplanes could fly using the logic of qubits — not just for computation, but for total radar evasion?"
 
 🌐 **View the article online:**  
-[https://ebi852.github.io/qubit-flight-article/](https://ebi852.github.io/qubit-flight-article/)
+[https://ebi852.github.io/Article.EBI/](https://ebi852.github.io/Article.EBI/)
 
 ## What’s Inside
 
